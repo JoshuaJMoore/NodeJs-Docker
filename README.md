@@ -2,7 +2,7 @@
 
 This project allows an Node JS - Express back end api to be ran in a docker container. 
 
-## Commands to run locally: 
+## Commands to run locally in docker: 
 
 ### Build the Container:
 	docker build -t backendapi .
